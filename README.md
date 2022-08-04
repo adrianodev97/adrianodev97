@@ -1,7 +1,3 @@
-### Hi!! I am Adriano Junior 👋
-- 🔭 I’m currently working as Full Stack Dev
-- 🌱 I’m currently learning AngularJs
-- 📫 How to reach me (E-mail): adrianojunior.dev97@gmail.com
 
 <div align="center">
   <a href="https://github.com/adrianodev97">
