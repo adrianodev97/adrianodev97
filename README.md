@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/adrianodev97">
-  <img min-height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=adrianodev97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img min-height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianodev97&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=adrianodev97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianodev97&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
