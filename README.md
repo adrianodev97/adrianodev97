@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=adrianodev97&theme=gotham&show_icons=true&count_private=true&hide_border=false"  width="57.5%" alt="github-readme-stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianodev97&layout=compact&theme=gotham&show_icons=true&count_private=true&hide_border=false" width="41.5%" alt="github-readme-top-langs"/>
+</p>
+
 ```typescript
 interface ProfileData {
   name: string;
@@ -30,32 +35,27 @@ displayProfile(myProfile);
 ```
 
 <p align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=adrianodev97&theme=gotham&show_icons=true&count_private=true&hide_border=false"  width="52.5%" alt="github-readme-stats"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianodev97&layout=compact&theme=gotham&show_icons=true&count_private=true&hide_border=false" width="37.5%" alt="github-readme-top-langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianodev97&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  alt="activity graph" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianodev97&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  alt="activity graph" width="100%">
 </p>
 
 <p style="display: inline_block" align="center"><br><br><br>
-  <img align="center" alt="Adriano-Next" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Adriano-React" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Adriano-Typescript" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Adriano-Javascript" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adriano-HTML" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adriano-CSS" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adriano-Storybook" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
-  <img align="center" alt="Adriano-Sass" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Adriano-Firebase" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Adriano-Firebase" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Adriano-Graphql" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Adriano-Redux" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Adriano-Git" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Adriano-GitHub" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
-  <img align="center" alt="Adriano-Jira" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-  <img align="center" alt="Adriano-VSCode" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Adriano-Figma" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Adriano-Next" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Adriano-React" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Adriano-Typescript" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Adriano-Javascript" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Adriano-HTML" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adriano-CSS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Adriano-Storybook" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
+  <img align="center" alt="Adriano-Sass" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Adriano-Firebase" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Adriano-Firebase" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="Adriano-Graphql" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Adriano-Redux" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Adriano-Git" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Adriano-GitHub" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" alt="Adriano-Jira" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  <img align="center" alt="Adriano-VSCode" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Adriano-Figma" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </p>
 
 ##
