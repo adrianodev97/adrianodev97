@@ -1,5 +1,3 @@
-<h3 align="center">I lead platform teams and ship production systems — from domain modeling to deploy.</h3>
-
 ```json
 {
   "role": "Tech Lead",
@@ -56,8 +54,6 @@ flowchart LR
   H -->|approved| Ship
   H -->|rework| P
 ```
-
-Agents do the volume. The gate before code is mine.
 
 ##
 
