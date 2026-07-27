@@ -10,7 +10,7 @@
   "graduation": "BSc in Computer Science",
 
   "leadership": [
-    "technical direction for a platform team",
+    "technical direction for platform and product teams",
     "roadmap and prioritization alongside product",
     "sprint planning and delivery cadence",
     "code-review culture and pair programming",
