@@ -111,8 +111,11 @@ flowchart LR
   <sub><b>Data &amp; APIs</b></sub><br><br>
   <img alt="Adriano-PostgreSQL" title="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img alt="Adriano-MongoDB" title="MongoDB" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img alt="Adriano-Redis" title="Redis" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
   <img alt="Adriano-Prisma" title="Prisma" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
   <img alt="Adriano-GraphQL" title="GraphQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg">
+  <img alt="Adriano-OpenAPI" title="OpenAPI" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg">
+  <img alt="Adriano-Swagger" title="Swagger" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
   <img alt="Adriano-Kafka" title="Kafka" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
   <img alt="Adriano-Firebase" title="Firebase" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img alt="Adriano-Axios" title="Axios" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
@@ -122,6 +125,7 @@ flowchart LR
   <sub><b>Infra &amp; platform</b></sub><br><br>
   <img alt="Adriano-Docker" title="Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img alt="Adriano-Kubernetes" title="Kubernetes" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+  <img alt="Adriano-Portainer" title="Portainer" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg">
   <img alt="Adriano-Terraform" title="Terraform" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
   <img alt="Adriano-AWS" title="AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img alt="Adriano-GCP" title="GCP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
@@ -133,10 +137,13 @@ flowchart LR
 <p align="center">
   <sub><b>Quality &amp; observability</b></sub><br><br>
   <img alt="Adriano-Jest" title="Jest" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
+  <img alt="Adriano-Vitest" title="Vitest" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg">
   <img alt="Adriano-Cypress" title="Cypress" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
+  <img alt="Adriano-Playwright" title="Playwright" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
   <img alt="Adriano-ESLint" title="ESLint" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg">
   <img alt="Adriano-Biome" title="Biome" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg">
   <img alt="Adriano-Sentry" title="Sentry" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg">
+  <img alt="Adriano-New Relic" title="New Relic" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg">
 </p>
 
 <p align="center">
@@ -150,6 +157,7 @@ flowchart LR
   <img alt="Adriano-VSCode" title="VSCode" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="Adriano-Npm" title="Npm" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
   <img alt="Adriano-Yarn" title="Yarn" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg">
+  <img alt="Adriano-Maven" title="Maven" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
 </p>
 
 ##
