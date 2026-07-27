@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=adrianodev97&theme=gotham&show_icons=true&count_private=true&hide_border=false" width="49.9%" alt="github-readme-stats"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=adrianodev97&layout=compact&theme=gotham&show_icons=true&count_private=true&hide_border=false&langs_count=8&hide=html,css,scss,jupyter%20notebook" width="49.1%" alt="github-readme-top-langs"/>
+</p>
+
 ```json
 {
   "role": "Tech Lead",
@@ -54,13 +59,6 @@ flowchart LR
   H -->|approved| Ship
   H -->|rework| P
 ```
-
-##
-
-<p align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=adrianodev97&theme=gotham&show_icons=true&count_private=true&hide_border=false"  width="57.5%" alt="github-readme-stats"/>
- <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=adrianodev97&layout=compact&theme=gotham&show_icons=true&count_private=true&hide_border=false&langs_count=8&hide=html,css,scss,jupyter%20notebook" width="41.5%" alt="github-readme-top-langs"/>
-</p>
 
 <!--- https://devicon.dev/ -->
 
