@@ -65,10 +65,6 @@ flowchart LR
 <!--- https://devicon.dev/ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianodev97&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  alt="activity graph" width="100%">
-</p>
-
-<p align="center">
   <sub><b>Languages</b></sub><br><br>
   <img alt="Adriano-Java" title="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="Adriano-TypeScript" title="TypeScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
